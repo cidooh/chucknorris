@@ -26,7 +26,10 @@ body{
    text-align: center;
    margin:auto;
    background:#D2FBD0;
-   box-shadow:0px 10px 25px rgba(0, 0, 0, 0.3)
+   box-shadow:0px 10px 25px rgba(0, 0, 0, 0.3);
+   p{
+    font-size: 19px;
+   }
 }
 .chuck-image{
     border-radius: 50%;
